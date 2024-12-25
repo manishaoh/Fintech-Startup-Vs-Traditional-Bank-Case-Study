@@ -9,7 +9,7 @@ To explore the strategic partnership between Deutsche Bank, a global financial i
 ---
 
 #### 📝 **Case Study Report**  
-- Access the complete case study in **PDF format here**: [Report](#).  
+- Access the complete case study in **PDF format here**: [Report](https://github.com/manishaoh/Fintech-Startup-Vs-Traditional-Bank-Case-Study/blob/main/Traditional_banks_and_Fintech_Startups_Case_Study.pdf).  
 - Comprehensive insights into how the partnership fosters innovation in supply chain finance.
 
 ---
